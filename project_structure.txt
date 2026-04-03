@@ -1,0 +1,11 @@
+# git ls-files > project_structure.txt
+
+.gitignore
+README.md
+data/.gitkeep
+data/processed/.gitkeep
+data/raw/.gitkeep
+docs/.gitkeep
+notebooks/.gitkeep
+results/.gitkeep
+src/.gitkeep
