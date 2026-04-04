@@ -1,4 +1,4 @@
-# git ls-files > project_structure.txt
+git ls-files > project_structure.txt
 
 .gitignore
 README.md
@@ -7,5 +7,7 @@ data/processed/.gitkeep
 data/raw/.gitkeep
 docs/.gitkeep
 notebooks/.gitkeep
+notebooks/Notebook_1_Download_Amazon_Video_Games.ipynb
+project_structure.txt
 results/.gitkeep
 src/.gitkeep
