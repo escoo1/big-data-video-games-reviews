@@ -1,5 +1,6 @@
 git ls-files > project_structure.txt
 
+
 .gitignore
 README.md
 data/.gitkeep
@@ -8,6 +9,7 @@ data/raw/.gitkeep
 docs/.gitkeep
 notebooks/.gitkeep
 notebooks/Notebook_1_Download_Amazon_Video_Games.ipynb
+notebooks/Notebook_2_Inspect_Profile_Amazon_Video_Games.ipynb
 project_structure.txt
 results/.gitkeep
 src/.gitkeep
